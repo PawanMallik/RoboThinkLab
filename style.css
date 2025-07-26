@@ -527,7 +527,7 @@ nav {
   color: white;
   display: flex;
   /* background-color: red; */
-  /* height: 50vh; */
+  height: 50vh;
   width: 100%;
 }
 
